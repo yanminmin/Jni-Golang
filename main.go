@@ -1,8 +1,8 @@
 package main
 
 /*
-#cgo CFLAGS: -I/Library/Java/JavaVirtualMachines/jdk-18.0.2.1.jdk/Contents/Home/include
-#cgo CFLAGS: -I/Library/Java/JavaVirtualMachines/jdk-18.0.2.1.jdk/Contents/Home/include/darwin
+#cgo CFLAGS: -I/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.312.b07-1.el7_9.x86_64/include
+#cgo CFLAGS: -I/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.312.b07-1.el7_9.x86_64/include/linux
 
 #include <stdlib.h>
 #include <stdio.h>
