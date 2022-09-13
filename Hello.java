@@ -2,7 +2,7 @@ public class Hello{
 	static{
 		System.loadLibrary("Hello");
 	}
-	public static native long add(long x ,long y);
+	public static native String add(long x ,long y);
 
 	public static void main(String args[]){
 		System.out.println("Hello");
